@@ -37,4 +37,8 @@ There are quite a few goals for this case study.
 - statsmodel (variance_inflation_factor, sm)
 
 ## Code Implementation, Business Questions, Presentation & Summary Report
-**Refer the jupyter notebook, subjective questions, presentation and summary report files in this repository.**
+**Refer the jupyter notebook, subjective questions, presentation and summary report files provided in this repository.**
+
+## Contributors
+- [Ganesh Jalakam](https://github.com/GaneshJalakam)
+- [Puneet Dadich](https://github.com/Puneet192)
